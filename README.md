@@ -2,8 +2,8 @@
 
 ###
 
-<h1 align="center">Hi 👋, I'm Oskar</h1>
-<h3 align="center">A passionate developer from Poland</h3>
+<h1 align="center">Welcome on my profile</h1>
+<h3 align="center">I'm young developer from Poland</h3>
 
 - 🔭 I’m currently working on **yourself**
 
