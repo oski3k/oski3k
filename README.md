@@ -5,15 +5,13 @@
 <h1 align="center">Welcome on my profile</h1>
 <h3 align="center">I'm young developer from Poland</h3>
 
-- 🔭 I’m currently working on **yourself**
-
 - 🌱 I’m currently learning **svelte and AI**
 
 - 👯 I’m looking to collaborate with **small projects**
 
 - 📫 How to reach me **s.oskar.21345@gmail.com**
 
-- ⚡ Fun fact **I love learning**
+- ⚡ **I love learning**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
