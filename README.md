@@ -1,9 +1,6 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/oski3k/oski3k/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/oski3k/oski3k/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/oski3k/oski3k/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/oski3k/oski3k/output/snake.svg" alt="Snake animation" />
 
+###
 
 <h1 align="center">Welcome on my profile</h1>
 <h3 align="center">I'm young developer from Poland</h3>
