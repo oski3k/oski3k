@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/oski3k/oski3k/output/snake.svg?v=2" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/oski3k/oski3k/output/snake.svg?v=3" alt="Snake animation" />
 
 ###
 
