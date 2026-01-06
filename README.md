@@ -93,19 +93,26 @@ When I'm not coding, I focus on self-discipline and staying active. I believe a 
   <a href="https://www.instagram.com/0_0skar__/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="https://x.com/oski3k">
+
+  <a href="https://x.com/oskarsledz">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="https://www.reddit.com/user/Prudent_Athlete_5379/">
-    <img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/oskar-%C5%9Bled%C5%BA-841a7337b/">
+
+  <a href="https://www.linkedin.com/in/oskarsledz/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://about.me/oskarsledz">
+    <img src="https://img.shields.io/badge/About.me-CE4630?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+  
+  <a href="https://oskarsledz.pl">
+    <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
 
   <br />
   <br />
-  
+   
   **Email me at:**
   <br />
   `s.oskar.21345@gmail.com`
