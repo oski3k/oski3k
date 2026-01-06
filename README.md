@@ -1,23 +1,31 @@
+<h1 align="center">Hi there, I'm Oskar Śledź 👋</h1>
+
 <h3 align="center">
-  Building Digital Experiences • Bridging Web & Mobile
+  Full-Stack Developer • Mobile & Web • Creator of Motivio
 </h3>
 
 <div align="center">
 
-  <a href="https://www.linkedin.com/in/oskar-%C5%9Bled%C5%BA-841a7337b/">
+  <a href="https://www.linkedin.com/in/oskarsledz/">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
-  
+  <a href="https://about.me/oskarsledz">
+    <img src="https://img.shields.io/badge/-About.me-CE4630?style=for-the-badge&logo=About.me&logoColor=white"/>
+  </a>
+  <a href="https://oskarsledz.pl">
+    <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
+  </a>
+   
 </div>
 
 ---
 
 ### 👨‍💻 About Me
 
-I am an ambitious **IT student** and a passionate **Full Stack Developer** based in Poland 🇵🇱. 
-I combine technical education with a practical approach, specializing in **Modern Web Development** and **Native Android Apps**. 
+I am a passionate **Full Stack Developer** based in Poland 🇵🇱. 
+I combine technical expertise with a practical approach, specializing in **Modern Web Development** and **Native Mobile Apps**. 
 
-* 🔭 **I’m currently working on:** Scaling my personal projects and learning advanced architecture patterns.
+* 🔭 **I’m currently working on:** Scaling **Motivio** and learning advanced architecture patterns.
 * ⚡ **My approach:** I strive for "Pixel Perfect" designs and highly optimized code.
 * 🎯 **Goal:** To create software that solves real-world problems and looks great doing it.
 
