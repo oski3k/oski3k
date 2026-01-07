@@ -90,7 +90,7 @@ When I'm not coding, I focus on self-discipline and staying active. I believe a 
 
 <div align="center">
 
-  <a href="https://www.instagram.com/0_0skar__/">
+  <a href="https://www.instagram.com/oski3k/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
