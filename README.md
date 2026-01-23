@@ -94,7 +94,7 @@ When I'm not coding, I focus on self-discipline and staying active. I believe a 
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 
-  <a href="https://x.com/oskarsledz">
+  <a href="https://x.com/devoskarsledz">
     <img src="https://img.shields.io/badge/X_(Twitter)-000000?style=for-the-badge&logo=x&logoColor=white" />
   </a>
 
