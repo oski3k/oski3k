@@ -1,7 +1,7 @@
 <h1 align="center">Hi there, I'm Oskar Śledź 👋</h1>
 
 <h3 align="center">
-  Full-Stack Developer • Mobile & Web • Creator of Motivio
+  Full-Stack Developer • Mobile & Web • Creator of BodyLog AI and Motivio
 </h3>
 
 <div align="center">
