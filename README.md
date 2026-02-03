@@ -15,7 +15,7 @@
   <a href="https://oskarsledz.pl">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=Google-Chrome&logoColor=white"/>
   </a>
-   
+    
 </div>
 
 ---
@@ -35,12 +35,12 @@ I combine technical expertise with a practical approach, specializing in **Moder
 
 Here are some of the projects I've built and deployed:
 
-| **📱 Motivio (Android)** | **🌐 Personal Portfolio** |
-| :---: | :---: |
-| *Published on Google Play* | *My Digital Business Card* |
-| A native Android application/game built for performance and user engagement. Proves my ability to ship products to the store. | A modern, responsive One-Page website built with React & Framer Motion. Showcases advanced animations and UI skills. |
-| [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oski3k.motivio&hl=pl) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oski3k/portfolio) |
-| **Tech:** `Kotlin` `Flutter` `Android SDK` | **Tech:** `React` `Tailwind` `Framer Motion` |
+| **💪 BodyLog AI** | **📱 Motivio: Habit & Goals** | **🌐 Personal Portfolio** |
+| :---: | :---: | :---: |
+| *Smart Body Tracker* | *Mental Health & Productivity* | *My Digital Business Card* |
+| Fitness app for monitoring body progress. Features **AI analysis**, comparative photo gallery, and weight control logs. | App for mental health and productivity. Offers **mood tracking**, journaling, **breathing exercises**, and daily inspirational quotes. | A modern, responsive One-Page website built with React & Framer Motion. Showcases advanced animations and UI skills. |
+| [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oski3k.body_log) | [![Google Play](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.oski3k.motivio&hl=pl) | [![GitHub](https://img.shields.io/badge/View_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/oski3k/portfolio) |
+| `Flutter` `Firebase` `Dart` `AI` | `Flutter` `Firebase` `Dart` | `React` `Tailwind` |
 
 ---
 
@@ -105,7 +105,7 @@ When I'm not coding, I focus on self-discipline and staying active. I believe a 
   <a href="https://about.me/oskarsledz">
     <img src="https://img.shields.io/badge/About.me-CE4630?style=for-the-badge&logo=About.me&logoColor=white" />
   </a>
-  
+   
   <a href="https://oskarsledz.pl">
     <img src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=Google-Chrome&logoColor=white" />
   </a>
