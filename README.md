@@ -106,6 +106,6 @@ When I'm not compiled in the IDE, I focus on heavy discipline, data tracking, an
     
   **Email me at:**
   <br />
-  `s.oskar.21345@gmail.com`
+  `hello@oskarsledz.pl`
 
 </div>
