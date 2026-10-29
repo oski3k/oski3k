@@ -28,8 +28,8 @@ Friends sit next to each other and everyone scrolls alone. **Pyk** turns that in
 ### Toolbox
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,ts,vite,tailwind,supabase,postgres,firebase,nodejs,python&theme=dark&perline=12">
-  <img alt="Flutter, Dart, Kotlin, React, TypeScript, Vite, Tailwind, Supabase, PostgreSQL, Firebase, Node.js, Python" src="https://skillicons.dev/icons?i=flutter,dart,kotlin,react,ts,vite,tailwind,supabase,postgres,firebase,nodejs,python&theme=light&perline=12" height="40">
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Creact%2Cts%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cfirebase%2Cnodejs%2Cpython&theme=dark&perline=12">
+  <img alt="Flutter, Dart, Kotlin, React, TypeScript, Vite, Tailwind, Supabase, PostgreSQL, Firebase, Node.js, Python" src="https://skillicons.dev/icons?i=flutter%2Cdart%2Ckotlin%2Creact%2Cts%2Cvite%2Ctailwind%2Csupabase%2Cpostgres%2Cfirebase%2Cnodejs%2Cpython&theme=light&perline=12" height="40">
 </picture>
 
 <br><br>
