@@ -21,7 +21,7 @@ Friends sit next to each other and everyone scrolls alone. **Pyk** turns that in
 
 [**Motivio**](https://play.google.com/store/apps/details?id=com.oski3k.motivio) — habits, mood, journaling, breathing &nbsp;`Flutter` `Firebase`<br>
 [**BodyLog**](https://play.google.com/store/apps/details?id=com.oski3k.body_log) — body measurements and progress &nbsp;`Flutter` `Firebase`<br>
-[**oskarsledz.pl**](https://github.com/oski3k/portfolio) — fast, SEO-tuned portfolio &nbsp;`React` `Vite` `Tailwind`
+[**oskarsledz.com**](https://github.com/oski3k/portfolio) — fast, SEO-tuned portfolio &nbsp;`React` `Vite` `Tailwind`
 
 <br>
 
@@ -36,4 +36,4 @@ Friends sit next to each other and everyone scrolls alone. **Pyk** turns that in
 
 <sub>Off screen: triathlon training · drone footage · 3D printing</sub>
 
-<sub>[oskarsledz.pl](https://oskarsledz.pl) · [LinkedIn](https://www.linkedin.com/in/oskarsledz/) · [X](https://x.com/devoskarsledz) · [hello@oskarsledz.pl](mailto:hello@oskarsledz.pl)</sub>
+<sub>[oskarsledz.com](https://oskarsledz.com) · [LinkedIn](https://www.linkedin.com/in/oskarsledz/) · [X](https://x.com/devoskarsledz) · [hello@oskarsledz.pl](mailto:hello@oskarsledz.pl)</sub>
